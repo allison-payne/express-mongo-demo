@@ -1,0 +1,24 @@
+{
+  "name": "express-mongo-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allison-payne/express-mongo-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allison-payne/express-mongo-demo/issues"
+  },
+  "homepage": "https://github.com/allison-payne/express-mongo-demo#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-mongoose-generator": "^3.0.3",
+    "mongoose": "^5.8.0"
+  }
+}
